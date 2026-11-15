@@ -5,8 +5,8 @@
     디스코드 음악 봇 <a href="https://github.com/mochilabs/SiruBOT">SiruBOT</a>과 Lavalink v4 오디오 플러그인, 관련 백엔드 서비스를 개발하고 운영합니다.
   </p>
   <p>
-    <a href="https://kafuu.space">웹사이트</a> ·
-    <a href="https://status.kafuu.space">서비스 상태</a> ·
+    <a href="https://dashboard.siru.life">대시보드</a> ·
+    <a href="https://status.siru.life">서비스 상태</a> ·
     <a href="https://discord.gg/Np9X5VqPdF">디스코드 서버</a>
   </p>
 </div>
